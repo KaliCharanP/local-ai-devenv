@@ -1,3 +1,5 @@
+# environment variables
+.env
 
 # dev documentation
 ai-dev-environment-plan.md
